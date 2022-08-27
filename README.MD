@@ -1,4 +1,4 @@
-[![Build status](https://ci.appveyor.com/api/projects/status/y70gvif9dvvas83j?svg=true)](https://ci.appveyor.com/project/Megalapka/java-aqa2-4-bdd)
+[![Build status](https://ci.appveyor.com/api/projects/status/tdnj6fg0e9kk7sdf?svg=true)](https://ci.appveyor.com/project/Megalapka/java-aqa2-4-cucumber)
 
 # Домашнее задание к занятию «2.4. BDD»
 
